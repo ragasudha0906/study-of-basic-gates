@@ -85,16 +85,18 @@ endmodule
 ```
  
 **Logic symbol & Truthtable**
-![logicgate2024-10-29 at 13 15 22_23515046](https://github.com/user-attachments/assets/f81d8892-191a-48f3-b321-3c1a68fe47e4)
+![logicgate2024-10-29 at 13 15 22_23515046 - Copy](https://github.com/user-attachments/assets/e39aa886-9278-4773-8f4c-e9b926a9efde)
+
 
 
 
 **RTL realization Output:**
-![logic gate 2 2024-10-29 at 14 35 27_ce300b26](https://github.com/user-attachments/assets/1416f47a-8d8c-4a18-887b-1728d3cc3d55)
+![logic gate 2 2024-10-29 at 14 35 27_ce300b26](https://github.com/user-attachments/assets/2e91df57-70d0-4bd9-ae9c-4ed8b8806fdb)
 
 
 **RTL**
-![Screenshot (12)](https://github.com/user-attachments/assets/3a9489e8-f5e0-425b-8ea1-074db4aae253)
+![Screenshot (12)](https://github.com/user-attachments/assets/c789acd7-74e3-41b4-b955-1774dbe3df9d)
+
 
 **Result:**
 Thus the basic logic gates are studied and the truth tables are verified.
